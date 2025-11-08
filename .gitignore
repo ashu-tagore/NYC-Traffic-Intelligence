@@ -1,0 +1,36 @@
+
+# Python & Environment Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.env
+.env
+venv/
+*.egg-info/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Streamlit & App Cache
+.streamlit/
+app/__pycache__/
+app/assets/__pycache__/
+
+# Data Files (Local Only)
+data/raw/
+data/processed/
+data/final/
+*.csv
+*.xlsx
+*.parquet
+
+# Models
+models/
+*.pkl
+*.sav
+
+# OS / Misc
+.DS_Store
+Thumbs.db
