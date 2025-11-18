@@ -1,0 +1,36 @@
+# Core Data Science Libraries
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Statistical Modeling
+statsmodels
+
+# Dashboard
+dash
+dash-bootstrap-components
+
+# Utilities
+joblib
+python-dotenv
+
+# Jupyter
+jupyter
+ipykernel
+notebook
+
+# Data Quality
+missingno
+
+# SHAP for model interpretation
+shap
